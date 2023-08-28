@@ -1,0 +1,73 @@
+name: pennywise
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  fl_chart: ^0.63.0
+  intl: ^0.18.1
+  http: ^1.1.0
+  flutter_dotenv: ^5.1.0
+  animated_splash_screen: ^1.3.0
+  flutter_launcher_icons: ^0.13.1
+  
+flutter_launcher_icons:
+  android: true
+  image_path: "image/wallet.png"
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - .env
+    - image\money.gif
+ 
+    
+
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
