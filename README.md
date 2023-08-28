@@ -1,16 +1,7 @@
-# pennywise
+# PennyWise Budget Tracker | A Flutter Project Integrated with Notion Database
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Discover the power of effective financial management with the Penny Wise mobile application, a dynamic and user-friendly budget tracker developed as a Flutter project and seamlessly integrated with the Notion database platform
